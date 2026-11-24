@@ -17,7 +17,7 @@ Things I've shipped lately. This list will change.
 - **[smartwatch-polygraph](https://github.com/batool-fariha/smartwatch-polygraph)**: checks whether your wearable's data agrees with itself. [Try it →](https://smartwatch-polygraph.vercel.app)
 - **[carechaos](https://github.com/batool-fariha/carechaos)**: breaks a simulated patient-monitoring system on purpose, to see what fails safely. [Try it →](https://carechaos.vercel.app)
 
-I also contribute to open source when something I use could be better: [open-wearables](https://github.com/the-momentum/open-wearables/pull/2029), [Tabularis](https://github.com/TabularisDB/tabularis/pull/1079), [OpenBot](https://github.com/nightly-labs/openbot/pull/1864).
+I also contribute to open source when something I use could be better. In [OpenEMR](https://github.com/openemr), a health record system, I'm writing the missing tests for its FHIR API ([Observation](https://github.com/openemr/openemr/pull/15146), [Immunization](https://github.com/openemr/openemr/pull/15262)), which caught a real duplicate-row bug along the way. Smaller changes: [open-wearables](https://github.com/the-momentum/open-wearables/pull/2029), [Tabularis](https://github.com/TabularisDB/tabularis/pull/1079), [OpenBot](https://github.com/nightly-labs/openbot/pull/1864).
 
 ### Background
 
